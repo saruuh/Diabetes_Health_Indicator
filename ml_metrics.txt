@@ -1,0 +1,37 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Machine Learning Evaluation Metrics\
+----------------------------------\
+\
+Model:\
+Random Forest Classifier\
+\
+Classification Type:\
+Multi-class Classification\
+\
+Train/Test Split:\
+70% Training / 30% Testing\
+\
+Random Seed:\
+42\
+\
+Model Parameters:\
+- Number of Trees: 50\
+- Maximum Depth: 10\
+\
+Evaluation Results:\
+- Accuracy: 0.8349282296650717\
+- F1-Score: 0.7827613689845303\
+- Baseline Accuracy: 0.8282034076321625\
+\
+Top Feature Importances:\
+1. GenHlth -> 0.2101263108317552\
+2. HighBP -> 0.2065120870019166\
+3. BMI -> 0.16102559912807776\
+4. HighChol -> 0.09315212474624815\
+5. DiffWalk -> 0.08052757947188587}
