@@ -1,4 +1,4 @@
-README.txt
+
 
 DiabetesHealthIndicatorGroup_BigDataProject
 IT462 – Big Data Systems
